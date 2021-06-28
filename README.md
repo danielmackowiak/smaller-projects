@@ -9,5 +9,5 @@ Aplikacja pozwala na:
   <li>Edytowanie danych zapisanych użytkowników poprzez formularz</li>
   <li>Tabela z wszystkimi zarejestrowanymi użytkownikami</li>
 </ul>
-![Zdjęcie aplikacji](https://imgur.com/a/DIlmQON)
+![git-manage-user](https://user-images.githubusercontent.com/72295183/123607604-56a12b00-d7fe-11eb-8f0d-d295f34edb8f.png)
 <hr>
