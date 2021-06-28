@@ -9,5 +9,5 @@ Aplikacja pozwala na:
   <li>Edytowanie danych zapisanych użytkowników poprzez formularz</li>
   <li>Tabela z wszystkimi zarejestrowanymi użytkownikami</li>
 </ul>
-Zdjęcie aplikacji: <img src=“https://imgur.com/a/DIlmQON”>
+![Zdjęcie aplikacji](https://imgur.com/a/DIlmQON)
 <hr>
